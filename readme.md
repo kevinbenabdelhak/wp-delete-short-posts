@@ -41,10 +41,18 @@ WP Delete Short Posts est un plugin convivial pour WordPress conçu pour vous ai
    - Configurez le nombre de mots souhaité et utilisez le bouton pour supprimer les articles courts.
 
 ## Changelog
-### 1.0
-* Premier lancement du plugin.
-* Ajout de la fonctionnalité de suppression d'articles en fonction du nombre de mots.
-* Interface d'administration pour gérer les paramètres de suppression.
+
+## 1.2 (22/02/2025)
+- Correction problème avec l’enregistrement des options + 301 corrigé
+  
+##  1.1 (21/02/2025)
+- 301 auto (optionnel)
+- 410 auto (optionnel)
+  
+##  1.0 (21/02/2025)
+- Champ pour indiquer un nombre de mots minimum
+- Enregistrement du champ
+- Suppression des articles qui disposent d’un nombre de mots inférieur à la valeur indiquée
 
 ## FAQ
 ### Pourquoi devrais-je supprimer des articles courts ?
